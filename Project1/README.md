@@ -6,4 +6,9 @@
 
 # How to run ?
 
+```bash
+$ gcc -fopenmp Sum.c 
+$ ./a.out 
+```
+
 
