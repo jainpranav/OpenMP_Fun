@@ -2,7 +2,7 @@
 
 ##About this Project 
 
-This project aims to try out new things in the  ` [OpenMP Language for Parallel Programming] (http://en.wikipedia.org/wiki/OpenMP) `
+This project aims to try out new things in the  ` [OpenMP Language for Parallel Programming](http://en.wikipedia.org/wiki/OpenMP) `
 
 
 ##Features :
